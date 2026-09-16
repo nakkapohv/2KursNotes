@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "b0906906389bf57f",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c3626dde05c5c2f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "96b4821727b36879",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Информационные технологии/LibreOffice/Практическая работа №4 (11.09).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Практическая работа №4 (11.09)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1b07bea1c10a4649",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b146957559b55ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94e375d4227e27db",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "ab2aed45f676cae1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "5a9afcd8441dfcb2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dddb108213fcd5c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "2d227d86f639d17d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ad0778e04adc115",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "SQL Основы теорий базы данных/Домашняя работа (15.09).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки"
+            }
+          },
+          {
+            "id": "302d80a02861ced8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "SQL Основы теорий базы данных/Домашняя работа (15.09).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки"
+            }
+          },
+          {
+            "id": "2539c6db23d8dbe6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "108961180eba9675",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "da33bf434c2a874d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "SQL Основы теорий базы данных/Домашняя работа (15.09).md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false
+    }
+  },
+  "active": "96b4821727b36879",
+  "lastOpenFiles": [
+    "Информационные технологии/Понятие информации и ИТ. Устройства ввода и вывода. Smart-устройства. IoT..md",
+    "SQL Основы теорий базы данных/Основные понятия теории базы данных.md",
+    "Информационные технологии/LibreOffice/Практическая работа №4 (11.09).md",
+    "Информационные технологии/LibreOffice/Практическая работа №3 (09.09).md",
+    "Численные методы/Погрешности.md",
+    "Информационные технологии/LibreOffice/Практическая работа №1 03.09.md",
+    "Информационные технологии/LibreOffice/Практическая работа №2 (04.09).md",
+    "SQL Основы теорий базы данных/Реляционная алгебра.md",
+    "SQL Основы теорий базы данных/Домашняя работа (15.09).md",
+    "SQL Основы теорий базы данных/Домашняя работа (14.09).md",
+    "SQL Основы теорий базы данных/Домашняя работа (12.09).md",
+    "Численные методы",
+    "Фото/Pasted image 20260910154253.png",
+    "Фото/Pasted image 20260910154004.png",
+    "Фото/ДЗ 14.09 База данных.png",
+    "Без названия"
+  ]
+}
