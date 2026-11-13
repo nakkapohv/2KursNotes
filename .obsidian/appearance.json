@@ -1,4 +1,5 @@
 {
   "accentColor": "#f514a3",
-  "baseFontSize": 20
+  "baseFontSize": 20,
+  "showRibbon": true
 }
